@@ -1,5 +1,5 @@
 "use client"
- import Formcard from '../formcard/page';
+ 
 import Confetti from 'react-confetti'
 import { GiBalloons } from "react-icons/gi";
 import { FaBirthdayCake } from "react-icons/fa";
