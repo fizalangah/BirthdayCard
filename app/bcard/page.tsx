@@ -33,12 +33,12 @@ const [formData, setFormData] = useState({
  setFormData({ ...formData, [name]: value });
 }
 
-const handleSubmit = (e:React.MouseEvent<HTMLButtonElement>) => {
+// const handleSubmit = (e:React.MouseEvent<HTMLButtonElement>) => {
 
-e.preventDefault();
-console.log('Form Data Submitted:', formData);
-// You can also display the data dynamically here
-};
+// e.preventDefault();
+// console.log('Form Data Submitted:', formData);
+// // You can also display the data dynamically here
+// };
 
 
 
